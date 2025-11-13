@@ -14,7 +14,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Токен вашего бота от BotFather (замените на реальный)
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+BOT_TOKEN = '8254638011:AAFo6iwRTITcrJY4p_1CYPzeSkCpH4kX0b0'
 
 # Инициализация бота
 bot = telebot.TeleBot(BOT_TOKEN)
